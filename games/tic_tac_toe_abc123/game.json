@@ -1,0 +1,51 @@
+{
+  "gameId": "tic_tac_toe_abc123",
+  "gameType": "tic_tac_toe",
+  "players": [
+    "alice",
+    "bob"
+  ],
+  "createdAt": "2025-05-26T10:30:00Z",
+  "moves": [
+    {
+      "player": "alice",
+      "position": [
+        0,
+        0
+      ],
+      "timestamp": "2025-05-26T10:30:00Z"
+    },
+    {
+      "player": "bob",
+      "position": [
+        0,
+        1
+      ],
+      "timestamp": "2025-05-26T10:31:00Z"
+    },
+    {
+      "player": "alice",
+      "position": [
+        1,
+        1
+      ],
+      "timestamp": "2025-05-26T10:32:00Z"
+    },
+    {
+      "player": "bob",
+      "position": [
+        2,
+        0
+      ],
+      "timestamp": "2025-05-26T10:33:00Z"
+    },
+    {
+      "player": "alice",
+      "position": [
+        0,
+        2
+      ],
+      "timestamp": "2025-05-26T10:34:00Z"
+    }
+  ]
+}
